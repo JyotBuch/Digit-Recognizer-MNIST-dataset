@@ -7,3 +7,5 @@
   Accuracy - 0.99603
   <br>
   Rank - Top 5%
+  <br>
+  Deployed app on streamlit
